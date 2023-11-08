@@ -36,7 +36,7 @@ export const intro = {
 		},
 		{
 			title: "Hire Me",
-			link: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+			link: "https://drive.google.com/file/d/1K_amxyw1z8D2Y_F9dw32KNW3QivFnSHo/view?usp=drive_link",
 			isPrimary: false,
 		},
 	],
@@ -148,25 +148,25 @@ export const links = {
 	title: "@ravi-aratchige",
 	description: "Coder by day, caffeinated coder by night",
 	cards: [
-		{
-			title: "My website",
-			link: "https://hashirshoaeb.com/",
-		},
-		{
-			title: "QuranTalk App",
-			link: "https://www.qurantalk.app/",
-		},
-		{
-			title: "StarBook App",
-			link: "https://starbook.dev/",
-		},
+		// {
+		// 	title: "My Website",
+		// 	link: "https://ravi-aratchige.github.io/",
+		// },
 		{
 			title: "My GitHub",
-			link: "https://github.com/hashirshoaeb/",
+			link: "https://github.com/ravi-aratchige/",
 		},
 		{
 			title: "My LinkedIn",
-			link: "https://www.linkedin.com/in/hashirshoaeb/",
+			link: "https://www.linkedin.com/in/ravindua/",
+		},
+		{
+			title: "My Twitter",
+			link: "https://twitter.com/RaviAsAService/",
+		},
+		{
+			title: "My Instagram",
+			link: "https://instagram.com/a.spoonful.of.ravi?igshid=dWs5aXoxODlmMXFi",
 		},
 	]
 }
